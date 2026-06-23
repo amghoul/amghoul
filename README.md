@@ -4,10 +4,16 @@ I work across two areas: deep learning research and cloud/security engineering. 
 
 Based in Gaza. Currently looking for fully funded PhD opportunities abroad.
 
-## Research
+## Research Experience
 
-- **Computer vision** — stereo matching and depth estimation, including a compact stereo model built during research at DFKI (German Research Center for Artificial Intelligence)
-- Peer-reviewed publications in deep learning and computer vision *(titles and links in the Publications section below)*
+**Guest Master’s Student** (06/2020 – 10/2021) 
+(remote, then on-site in Germany for three months, 07/2021–10/2021)
+Augmented Vision, German Research Centre for Artificial Intelligence (DFKI)
+- Developed a lightweight end-to-end deep learning model for real-time stereo disparity estimation (48K parameters, 2.5 GFLOPs, and 29.5 ms/frame) by factorizing 3D convolutions into 2D/1D layers.
+- Trained and benchmarked the model on standard stereo datasets, comparing accuracy and runtime against published baselines.
+- Worked within an international research team, sharing progress and incorporating feedback from senior researchers.
+- Published the results as a first-author peer-reviewed journal article (MSDE, Journal of Autonomous Intelligence, 2024).
+
 
 ## Engineering
 
