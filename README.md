@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 # Ahmed Alghoul
 
 I work across two areas: deep learning research and cloud/security engineering. My research is in computer vision, Deep learning, robotics, and autonomous driving; my engineering work is in building and securing cloud infrastructure.
