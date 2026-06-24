@@ -25,6 +25,7 @@ Augmented Vision, German Research Centre for Artificial Intelligence (DFKI)
 
 - **[MSDE](https://github.com/amghoul/M2-MSDE)** — real-time, edge-aware depth prediction via Multi-Scale Disparity Estimation (stereo matching)
 - **[SSDE](https://github.com/amghoul/M1-SSDE)** — real-time, edge-aware depth prediction via Single-Scale Disparity Estimation (stereo matching)
+- **[Multi-Agent Heritage RAG Assistant](https://github.com/amghoul/Multi-Agent-Heritage-RAG-Assistan)** — Multi-Agent System 
 - **[MENA Tourist Smart RAG System](https://github.com/amghoul/MENA-Tourist-RAG-SYSTEM)** — retrieval-augmented 
 
 ## Tools
