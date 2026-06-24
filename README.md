@@ -23,8 +23,8 @@ Augmented Vision, German Research Centre for Artificial Intelligence (DFKI)
 
 ## Selected projects
 
-- **[StereoNet](https://github.com/amghoul/M2-MSDE)** — real-time, edge-aware depth prediction via Multi-Stage Disparity Estimation (stereo matching)
-- **[StereoNet](https://github.com/amghoul/M1-SSDE)** — real-time, edge-aware depth prediction via Single-Stage Disparity Estimation (stereo matching)
+- **[MSDE](https://github.com/amghoul/M2-MSDE)** — real-time, edge-aware depth prediction via Multi-Stage Disparity Estimation (stereo matching)
+- **[SSDE](https://github.com/amghoul/M1-SSDE)** — real-time, edge-aware depth prediction via Single-Stage Disparity Estimation (stereo matching)
 - **[MENA Tourist Smart RAG System](https://github.com/amghoul/MENA-Tourist-SMART-RAG-SYSTEM)** — retrieval-augmented 
 
 ## Tools
