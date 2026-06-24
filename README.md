@@ -23,9 +23,9 @@ Augmented Vision, German Research Centre for Artificial Intelligence (DFKI)
 
 ## Selected projects
 
-- **[StereoNet](https://github.com/amghoul/StereoNet)** — real-time, edge-aware depth prediction via guided hierarchical refinement (stereo matching)
-- **[MENA Tourist Smart RAG System](https://github.com/amghoul/MENA-Tourist-SMART-RAG-SYSTEM)** — retrieval-augmented generation for tourism across the MENA region
-- **[HiveBox DevOps Project](https://github.com/amghoul/devops-hands-on-project-hivebox)** — end-to-end hands-on DevOps build
+- **[StereoNet](https://github.com/amghoul/M2-MSDE)** — real-time, edge-aware depth prediction via Multi-Stage Disparity Estimation (stereo matching)
+- **[StereoNet](https://github.com/amghoul/M1-SSDE)** — real-time, edge-aware depth prediction via Single-Stage Disparity Estimation (stereo matching)
+- **[MENA Tourist Smart RAG System](https://github.com/amghoul/MENA-Tourist-SMART-RAG-SYSTEM)** — retrieval-augmented 
 
 ## Tools
 
